@@ -9,7 +9,7 @@
     http://www.dmitry.co/index.php?p=.%2F04.Thoughts%2F05.%20Nike%20plus%20iPod
 */
 
-#include "public_nike_dec.h"
+#include "nike_plus_dec.h"
 
 uint8_t getSrcFlags(const uint8_t* packet){
 	return packet[0];	
