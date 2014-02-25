@@ -1,5 +1,5 @@
-David Chatting (david.chatting@network.rca.ac.uk)
-Royal College of Art - Design Interactions - http://www.design-interactions.rca.ac.uk/david-chatting
+David Chatting
+http://davidchatting.com/runninglives/spotters/p1/
 12th March 2012
 ---
 
